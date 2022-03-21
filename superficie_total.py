@@ -22,7 +22,7 @@ class Casa:
 
 # Definimos las paredes
 pared_norte = Pared("NORTE")
-pared_oeste = Pared("OESTEE")
+pared_oeste = Pared("OESTE")
 pared_sur = Pared("SUR")
 pared_este = Pared("ESTE")
 
